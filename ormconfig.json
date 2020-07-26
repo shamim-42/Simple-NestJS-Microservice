@@ -4,9 +4,9 @@
         "type": "mysql",
         "host": "localhost",
         "port": 3306,
-        "username": "shamim",
-        "password": "konorokom",
-        "database": "ichiiba_notification_processor",
+        "username": "DATABASE_USERNAME",
+        "password": "DATABASE_PASSWORD",
+        "database": "DATABASE_NAME",
         "synchronize": true,
         "logging": true,
         "entities": [
